@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princeparajuli
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning starting my journey in Data science ,and have completed full-stack with python django 
+- 🌱 I’m currently  starting my journey in Data science ,and have completed full-stack with python django 
 - 💞️ I’m looking to collaborate with tech company
 - 📫 How to reach me email:pricneparajuli@gmail.com
 - 😄 Pronouns:Rajkumar
