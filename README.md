@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **pricneparajuli@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:*CESS-NEPAL WORDPRESS WEBSITE && FULL-STACK WEBSITE DESGIN @FSU* 
+- 🔭 **I’m currently working on:*CESS-NEPAL WORDPRESS WEBSITE , UPDATING WEBSITE OF KVLC && FULL-STACK WEBSITE DESGIN @FSU* 
 - 🌱 **I’m currently learning:*DATA SCIENCE* 
 - 👯 **I’m looking to collaborate on:*FSU WEBSITE DESGIN* 
 - 💬 **Ask me about:*FULL-STACK JOB(MERN-STACK OR PYHTON-DJANGO)* 
